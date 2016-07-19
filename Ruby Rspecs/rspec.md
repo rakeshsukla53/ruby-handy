@@ -14,6 +14,6 @@ Testing with Rspec
     - Main Logic happens inside it
     
 # for running rspec just type `rspec`
-
-
-    
+# if the object on which the test is operating
+- Relish relishapp.com/rspec for more details
+- Rspec has lot of built-in matchers readily available 
