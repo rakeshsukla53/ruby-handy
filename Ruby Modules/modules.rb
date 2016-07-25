@@ -2,6 +2,11 @@
 # Like a class, but cannot be instantiated
 # - Class inherits from Module and adds new
 # TWO PURPOSE Namespace and Mixin
+# Modules of classes, methods, attributes and constants it is easily accessible
+# via Module_Name::
+# It can be easily added
+# you can nest modules inside modules, you can use the keyword `include module_name`
+# modules provide mixin functionality which you can use
 
 module Sports
   class Match
