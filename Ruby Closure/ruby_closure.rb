@@ -49,17 +49,3 @@ my_lambda = -> { puts "This message remembers message :: #{message}" }
 lambda_message_printer(my_lambda)
 
 ######################################################################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
