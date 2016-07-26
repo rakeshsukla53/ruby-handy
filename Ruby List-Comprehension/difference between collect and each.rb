@@ -16,4 +16,3 @@ array.collect {|x| puts x**2}
 p [1, 2, 3].each { |x| x + 1 }    #=> [1, 2, 3]
 p [1, 2, 3].collect { |x| x + 1 } #=> [2, 3, 4]
 
-
